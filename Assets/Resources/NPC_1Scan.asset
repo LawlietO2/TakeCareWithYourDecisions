@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e7617387213463249a89767816244136, type: 3}
+  m_Name: NPC_1Scan
+  m_EditorClassIdentifier: 
+  name: Deividi
+  dialogue:
+  - 
+  - Nao, mais saudavel impossivel, gatinha!
+  - Ok!
+  - Sim
+  - Poderei trabalhar hoje?
+  - Como assim, isso e um absurdo.
+  - Bom mesmo, achei que voce fosse "embacar"!
+  playerDialogue:
+  - Tem sentido algum sintoma fisico que possa indicar alguma doenca?
+  - Certo faremos os exames para identicar se voce esta mesmo dizendo a verdade,
+    mais respeito por favor!
+  - Voce se sente apto para adentrar no ambiente de trabalho, sem colocar em risco
+    voce a sociedade e seus colegas de trabalho?
+  - As informacoes do scanner nao coincidiram com as descricoes dos sintomas que
+    voce nos forneceu.
+  - Nao, voce ira para  a quarentena.
+  - Sim, voce ira para o laboratorio.
